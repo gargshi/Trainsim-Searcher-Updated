@@ -1,0 +1,1 @@
+DEFAULT_FOLDER<=>C:/d-content/openrails_dlc/repository
